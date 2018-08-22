@@ -1,0 +1,86 @@
+body {
+    background-image: url('/image/mainback.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.row {
+    margin-left: 12%;
+}
+
+.navbar-expand-lg .dropdown-menu {
+    width: 50%;
+    margin-left: 50%;
+    background-color: orangered;
+    color: darkslategray;
+    font-family: 'Chango', cursive;
+}
+
+.dropdown-menu {
+    background-color: darkslategray;
+    color: orangered;
+}
+
+.nav-item {
+    font-weight: normal;
+    font-family: 'Chango', cursive;
+}
+
+.Name {
+    font-family: 'Chango', cursive;
+    margin-left: 65px;
+    margin-top: -7px;
+    font-size: 65px;
+}
+
+#submit {
+    background-color: orangered;
+    color: darkslategray;
+    font-family: 'Chango', cursive;
+}
+
+.greyL {
+    color: darkslategray;
+}
+
+.orangeL {
+    color: orangered;
+}
+
+.L {
+    color: orangered;
+}
+
+.O {
+    color: darkslategray;
+}
+
+.D {
+    color: orangered;
+}
+
+.I {
+    color: darkslategray;
+}
+
+.container {
+    margin: 0%;
+    padding: 0%;
+}
+
+.WI {
+    font-size: 25px;
+    font-family: 'Chango', cursive;
+    margin-left: 27%;
+}
+
+label {
+    font-family: 'Chango', cursive;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.errors {
+    color: red
+}
