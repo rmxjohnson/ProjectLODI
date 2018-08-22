@@ -13,7 +13,7 @@ LODI uses MySQL, Node, Express, Handlebars, and a sequalized ORM.  The app follo
 https://projectlodi.herokuapp.com/
 
 # Links to GitHub
-https://github.com/stevemazanec/Project2.git
+https://rmxjohnson.github.io/ProjectLODI/
 
 
 # Built with:
